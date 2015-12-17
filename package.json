@@ -1,0 +1,28 @@
+{
+  "name": "peapod",
+  "version": "0.0.1",
+  "description": "A library for accessing the unofficial Peapod API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MiniCodeMonkey/node-peapod.git"
+  },
+  "keywords": [
+    "peapod"
+  ],
+  "author": "Nathias Hansen & Jake Mercurio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiniCodeMonkey/node-peapod/issues"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "request": "~2.67.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
