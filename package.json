@@ -1,5 +1,5 @@
 {
-  "name": "peapod",
+  "name": "peapod-v3",
   "version": "0.0.2",
   "description": "A library for accessing the unofficial Peapod API.",
   "main": "index.js",
